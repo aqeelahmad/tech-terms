@@ -7,4 +7,4 @@ A list of some of the common technology terms
 
 
 ## Backend
-- **Warm Cache**: Cache warming is when websites artificially fill the cache so that real visitors will always get a cache hit
+- **Warm Cache**: Cache warming is when websites artificially fill the cache so that real visitors will always get a cache hit or in other words, cache won't be built even for the first user and is always cached
